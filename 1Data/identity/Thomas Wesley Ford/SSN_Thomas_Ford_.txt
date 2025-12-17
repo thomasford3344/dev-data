@@ -1,0 +1,23 @@
+FirstName: Thomas
+LastName: Ford
+MiddleName: Wesley
+Date Of Birth: 2/10/1993 (mm/dd/yyyy)
+State: TX
+City: Lubbock
+Address: 6205 E Cr 6450
+Zip: 79403
+SSN: 635-34-5307
+DL: 39323483
+Purchased Date: 11/27/2025
+Timezone: CST Timezone(UTC-5)
+
+=======================================
+
+thomasford3344@gmail.com
+
++1 (818) 697-1506
+
+https://thomas-fords.vercel.app
+
+https://linkedin.com/in/thomas-ford-7ab744393
+

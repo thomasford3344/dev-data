@@ -1,0 +1,253 @@
+Greetings:
+
+> Hi [Jeni], this is [Thomas] returning your call about the [Senior Software Engineer] position. Thanks for reaching out — happy to talk through my background.
+================================================================================================================
+
+Am I speaking with Thomas?
+
+> Yes, this is Thomas speaking.
+
+================================================================================================================
+
+Farewell:
+
+> Thanks for your time, [Jeni]. I really appreciate the conversation. Let me know the next steps or if you need anything else from me.
+================================================================================================================
+
+Salary Expectations (if asked):
+
+> I’m flexible. I’d like to understand the responsibilities and your range, and I’m sure we can find a number that works for both sides.
+$50-70/hr
+$10,000/mo
+$120,000/yr
+================================================================================================================
+
+Timezone:
+
+> CST Timezone(Lubbock, Texas). I’m in Texas and working [PST] hours is no problem.
+================================================================================================================
+
+Age:
+
+> Feb 10, 1993(32 years old)
+================================================================================================================
+
+Authorized:
+
+> Yes, I am fully authorized to work in the United States.================================================================================================================
+
+Sponsorship:
+
+> No, I don’t need sponsorship now or in the future.
+================================================================================================================
+
+Eligible to work as W2 employee:
+
+> Yes, I’m fully eligible to work in the U.S. as a W-2 employee.================================================================================================================
+
+How would you describe your ideal team and hiring manager:
+
+> I work best on a team that communicates openly, supports each other, and stays focused on solutions. I appreciate a manager who sets clear expectations, gives honest feedback, and trusts the team to do their job.
+================================================================================================================
+
+What is your availability for an interview?
+
+> I’m open most of this and next week. Let me know a few times that work for you, and I’ll confirm.================================================================================================================
+
+Do you have any time off requests or personal commitments now or planned over the next 90 days? That would prevent you from working in established schedule?
+
+> No, I don’t have any planned time off or commitments. I’m fully available.
+================================================================================================================
+
+How soon would you be able to start working?
+
+> I can start right away.
+================================================================================================================
+
+Do you have any questions for me?
+
+> How would you describe the company’s culture, especially around collaboration and communication in a remote-first environment?
+================================================================================================================
+
+Do you have any feedback for me?
+
+> Yes, definitely — this was honestly one of the most comfortable interviews I’ve had. You explained everything really clearly and made the whole conversation feel easy and natural.
+
+================================================================================================================
+
+Do you have any other offer in hand, or are you expecting from somewhere?
+
+> I’m not holding any offers at the moment, but I am in a few interview processes. That said, this role is one of my top priorities.
+================================================================================================================
+
+Have you applied for another job recently?
+
+> I’ve applied to a few roles recently, but I’m being selective. This position is one of  my top priorities.
+================================================================================================================
+
+What is most important to you in your new role?
+
+> For me, the biggest thing is being on a team that actually talks to each other and works well together. I really value a group where people communicate openly, help each other out, and stay on the same page. When the teamwork is strong, everything else just falls into place.================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. “Can you walk me through your DevOps experience?”
+
+Answer:
+“Sure. I’ve spent over 8 years building CI/CD pipelines, managing cloud infrastructure, and supporting production systems.
+At Vieaura, I built Bitbucket pipelines, managed Kubernetes clusters on GCP/AWS/Azure, and automated deployments for OPTRIX’s real-time platform.
+Before that at RevBits, I built backend security features in Python and Java and supported secure software delivery.
+Overall, I focus on automation, reliability, and scaling cloud systems.”
+
+2. “What’s your experience with AWS?”
+
+Answer:
+“My recent projects were mostly on GCP, but I do have hands-on AWS experience with EC2, S3, IAM, and VPC from earlier work and side environments.
+And because Kubernetes, CI/CD, and cloud networking concepts carry over, picking up AWS services like EKS, CloudWatch, and CodeDeploy would be fast for me.”
+
+(This is honest + still strong.)
+
+3. “Have you built CI/CD pipelines?”
+
+Answer:
+“Yes. At Vieaura I built and maintained CI/CD pipelines in Bitbucket for OPTRIX deployments.
+I’ve automated build steps, testing, containerization, and rollout processes for Kubernetes.
+I’m also familiar with Git-based workflows and integrating automation into release cycles.”
+
+4. “Tell me about your Kubernetes experience.”
+
+Answer:
+“I’ve managed production Kubernetes clusters on GCP, built deployment configurations, automated rollouts, and monitored workloads.
+For OPTRIX, I supported high-availability clusters that served real-time spatial awareness features.”
+
+5. “What programming languages are you strongest in?”
+
+Answer:
+“Python and Java.
+I used both heavily at RevBits for backend development, security features, and data processing.”
+
+6. “Have you handled production troubleshooting or incident response?”
+
+Answer:
+“Yes. I’ve diagnosed deployment issues, performance bottlenecks, Kubernetes workload failures, and backend service bugs.
+I work quickly, communicate clearly, and prioritize restoring stability before deep-diving root causes.”
+
+7. “Do you have experience with compliance frameworks like SOC2, HIPAA, or FedRAMP?”
+
+Answer:
+“I’ve contributed to secure software development at RevBits, including addressing vulnerabilities and strengthening access control.
+I haven’t done formal FedRAMP or SOC2 evidence automation yet, but I’m familiar with the concepts and comfortable learning the compliance workflows.”
+
+8. “What’s your time zone? Can you work PST hours?”
+
+Answer:
+“Yes, I’m in Texas, and PST hours work perfectly for me.”
+
+9. “Why are you interested in this role?”
+
+Answer:
+“I enjoy building reliable cloud infrastructure at scale. Your emphasis on automation, high availability, and continuous improvement aligns strongly with my experience.
+I also like joining teams where I can solve complex problems and help strengthen DevOps processes.”
+
+10. “What are your salary expectations?”
+
+Answer (safe version):
+“For now I’m flexible. I’d like to learn more about the role expectations and your compensation range, and I’m sure we can find a number that works for both sides.”
+
+✅ BONUS: They May Ask About Git & Collaboration
+
+Q: “How do you use Git in your workflow?”
+A:
+“I use Git for branching strategies, code reviews, and pipeline triggers. I’m comfortable with feature branches, PR reviews, and automated deployments from Git events.”
+
+✅ BONUS: They May Ask About Teamwork
+
+Q: “How do you communicate with teams?”
+A:
+“I keep communication clear and proactive, especially during releases or troubleshooting. I’m used to Jira workflows, standups, and collaborating across dev, QA, and product.”
+
+
+
+
+1. Greeting
+
+You:
+“Hi Brett, this is Thomas returning your call about the DevOps position. Thanks for reaching out — happy to talk through my background.”
+
+2. If he asks “Can you tell me about yourself?”
+
+Sure. I’m Thomas, a Senior DevOps and Software Engineer with about eight years of experience.
+Recently at Vieaura, I managed Kubernetes on GCP and built CI/CD pipelines in Bitbucket to support OPTRIX’s real-time platform. Before that at RevBits, I developed backend features in Python and Java for cybersecurity products.
+I focus on automation, cloud infrastructure, and keeping production systems reliable.
+
+3. If he asks about your DevOps experience
+
+You:
+“I’ve spent most of my career building CI/CD pipelines, managing cloud infrastructure, and supporting production systems.
+At Vieaura, I built Bitbucket pipelines, automated deployments, and managed Kubernetes clusters on GCP.
+At RevBits, I developed secure backend features in Python and Java.
+I focus on automation, reliability, and scalable systems.”
+
+4. If he asks about AWS
+
+You:
+“I used GCP heavily at Vieaura, but I do have hands-on AWS experience with EC2, S3, IAM, VPC, and container deployments from earlier work and personal environments.
+Since cloud concepts transfer well, I adapt quickly to AWS services like EKS, CloudWatch, or CodeDeploy.”
+
+5. If he asks about Kubernetes
+
+You:
+“I managed production Kubernetes clusters on GCP — deployments, autoscaling, monitoring, and troubleshooting workload issues.”
+
+6. If he asks about CI/CD
+
+You:
+“I built CI/CD pipelines in Bitbucket for OPTRIX, including automated builds, containerization, testing, and deployment to Kubernetes.”
+
+7. If he asks about programming languages
+
+You:
+“My strongest languages are Python and Java, especially from my time at RevBits working on security products.”
+
+8. If he asks about troubleshooting
+
+You:
+“I’ve handled production issues related to deployments, containers, microservices, and cluster health.
+My approach is fast diagnosis, clear communication, and restoring stability before deep root-cause work.”
+
+9. If he asks about compliance frameworks
+
+You:
+“I haven’t directly automated SOC2 or HIPAA evidence collection, but I have worked on secure coding, vulnerability fixes, and tightening access control.
+I’m comfortable learning compliance automation.”
+
+10. If he asks “Why do you want this role?”
+
+You:
+“I like roles focused on automation, scaling cloud systems, and solving complex DevOps problems.
+Your environment — Kubernetes, AWS, CI/CD, and high availability — aligns very well with what I’ve been doing and want to keep growing in.”
+
+11. Salary Expectations (if asked)
+
+You:
+“I’m flexible. I’d like to understand the responsibilities and your range, and I’m sure we can find a number that works for both sides.”
+
+12. Availability / Time Zone
+
+You:
+“I’m in Texas and working PST hours is no problem.”
+
+13. Closing the Call
+
+You:
+“Great talking with you, Brett. I appreciate the opportunity. Let me know the next steps or if you need anything else from me.”
