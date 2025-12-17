@@ -1,7 +1,0 @@
-email: jinge627@outlook.com
-phone: +65 xxxx-xxxx
-address: 27 Jurong Lake Drive, Singapore 649221 
-timezone: SGT(Singapore Standard Time, UTC+8)
-
-https://jinge-jin.vercel.app
-https://linkedin.com/in/jinge-jin-xxxxxxx
